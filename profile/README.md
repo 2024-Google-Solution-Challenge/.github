@@ -44,7 +44,7 @@ Please follow one of the following two methods to run the application:
 
 ![yurim.jpeg](./profile/member/yurim.jpeg)
 
-| <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width = "120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/jiho.jpeg"> |
+| <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/myeongjin.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width = "120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/jiho.jpeg"> |
 |---------|---------|---------|---------|
 | Lee Yurim <br> 💛 FrontEnd | Son Myeongjin <br> 💛 FrontEnd | Kang Yuhyun <br> 💚 BackEnd | Kwon Jiho <br> 💜 Design |
 
