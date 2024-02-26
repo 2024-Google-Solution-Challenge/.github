@@ -9,8 +9,6 @@ Korea University GDSC - Team I’m Hero
 
 ## 👋  Introduction
 
-<img width="200" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/imhero.png">
-<br>
 Hello, We're Team I'm Hero.
 
 We recently developed an environmental challenge community app. 
