@@ -1,4 +1,4 @@
-![flag.png](./profile/flag.png)
+![flag.png](https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/flag.png)
 
 # 2024 Solution Challenge - I’m Hero 🌱
 
@@ -39,26 +39,7 @@ Please follow one of the following two methods to run the application:
 
 ## 👩‍💻 Contributors
 
-
-|[Lee Yurim 💛 FE](https://github.com/yurimn)|[Son Myeongjin(BE)](https://github.com/bumstead-bumstead)|[변서연(ML)](https://github.com/seooyxx)|박태진(UI/UX)|
-
-![yurim.jpeg](./profile/member/yurim.jpeg)
-
-| <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/myeongjin.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width = "120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/jiho.jpeg"> |
+| <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yurim.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/myeongjin.jpeg"> | <img width="120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/yuhyun.jpeg"> | <img width = "120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/jiho.jpeg"> |
 |---------|---------|---------|---------|
 | Lee Yurim <br> 💛 FrontEnd | Son Myeongjin <br> 💛 FrontEnd | Kang Yuhyun <br> 💚 BackEnd | Kwon Jiho <br> 💜 Design |
 
-
-
-![앱 로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cdd3d1d-b1fe-472e-9cd2-0af904a43aa9/dc87b60c-4378-4871-9311-3d94a3c98502/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png)
-
-
-![앱 로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cdd3d1d-b1fe-472e-9cd2-0af904a43aa9/dc87b60c-4378-4871-9311-3d94a3c98502/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png)
-
-
-
-![앱 로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cdd3d1d-b1fe-472e-9cd2-0af904a43aa9/dc87b60c-4378-4871-9311-3d94a3c98502/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png)
-
-Kwon Jiho
-
-💜 Design
