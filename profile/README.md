@@ -28,7 +28,7 @@ Please follow one of the following two methods to run the application:
     1. Download the APK file of our application from [here](https://github.com/2024-Google-Solution-Challenge/release).
     2. Run the downloaded file on your Android phone.
     3. Proceed with Google social login or self-registration.
-    4. You can access the app using our sample account by entering id:(imhero@gmail.com) and pw:(qwer1234) in the login section.
+    4. You can access the app using our sample account by entering **id:(imhero@gmail.com)** and **pw:(qwer1234)** in the login section.
 
 - Run it on the web.
     
