@@ -44,7 +44,7 @@ Please follow one of the following two methods to run the application:
 
 ![yurim.jpeg](./profile/member/yurim.jpeg)
 
-| <img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966941-be6efa5b-1b6f-4789-8651-d574c0854979.png"> | 이미지 2 | 이미지 3 |이미지 3 |
+| <img width="100" alt="image" src="https://user-images.githubusercontent.com/91039622/228966941-be6efa5b-1b6f-4789-8651-d574c0854979.png"> | 이미지 2 | 이미지 3 | <img width = "120" alt="image" src="https://github.com/2024-Google-Solution-Challenge/.github/blob/main/profile/member/jiho.jpeg"> |
 |---------|---------|---------|---------|
 | Lee Yurim <br> 💛 FrontEnd | Son Myeongjin <br> 💛 FrontEnd | Kang Yuhyun <br> 💚 BackEnd | Kwon Jiho <br> 💜 Design |
 
