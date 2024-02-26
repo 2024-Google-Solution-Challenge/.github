@@ -1,4 +1,4 @@
-![flag.png](./flag.png)
+![flag.png](.github/profile/flag.png)
 
 # 2024 Solution Challenge - I’m Hero 🌱
 
