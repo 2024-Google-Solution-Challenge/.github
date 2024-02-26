@@ -39,3 +39,26 @@ Please follow one of the following two methods to run the application:
 
 ## 👩‍💻 Contributors
 
+![yurim.jpeg](./profile/member/yurim.jpeg)
+
+Lee Yurim
+
+💛 FrontEnd
+
+![앱 로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cdd3d1d-b1fe-472e-9cd2-0af904a43aa9/dc87b60c-4378-4871-9311-3d94a3c98502/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png)
+
+Son Myeongjin
+
+💛 FrontEnd
+
+![앱 로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cdd3d1d-b1fe-472e-9cd2-0af904a43aa9/dc87b60c-4378-4871-9311-3d94a3c98502/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png)
+
+Kang Yuhyun
+
+💚 BackEnd
+
+![앱 로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cdd3d1d-b1fe-472e-9cd2-0af904a43aa9/dc87b60c-4378-4871-9311-3d94a3c98502/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png)
+
+Kwon Jiho
+
+💜 Design
