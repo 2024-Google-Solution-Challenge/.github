@@ -18,10 +18,11 @@ Now is the time when **various environmental activities** like plogging and redu
 
 Also, use the water droplets (points) you earn from environmental protection activities to grow and collect flowers of various colors! By doing so, you'll eventually become a hero of the Earth.
 
+<br>
 
 ## 🖥️ Demo Video
 
-
+<br>
 
 ## 🌳 How to Execute
 
@@ -40,6 +41,7 @@ Please follow one of the following two methods to run the application:
     1. Open Chrome/Internet browser on Android or Safari on iOS.
     2. Access [imhero.app](https://imhero.app/) to complete the setup.
 
+<br>
 
 ## 👩‍💻 Contributors
 
