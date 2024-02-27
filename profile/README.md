@@ -38,7 +38,7 @@ Please follow one of the following two methods to run the application:
     **Note:** For the best app experience, it is recommended to run it on mobile devices.
     
     1. Open Chrome/Internet browser on Android or Safari on iOS.
-    2. Access [imhero.app](https://i-m-hero-fcc9f.web.app/) to complete the setup.
+    2. Access [imhero.app](https://imhero.app/) to complete the setup.
 
 <br>
 
